@@ -1,0 +1,10 @@
+body{
+    padding: 40px;
+}
+.row row-cols-1 row-cols-md-3 g-4{
+    box-shadow: 10px 10px 15px;
+}
+.card-img-top{
+    width: 500px;
+    height: 231px;
+}
