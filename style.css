@@ -3,6 +3,7 @@
 }
 .card{
     box-shadow: 2px 4px 11px;
+    width: 95%;
 }
 .card-img-top{
     width: 500px;
@@ -19,3 +20,26 @@
 .descripcion{
     margin: 40px
 }
+
+.column {
+    width: 100%;
+  }
+
+.video-container {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00409d;
+    padding: 70px;
+    padding-right: 190px;
+}
+
+.video-container video {
+    width: 70%;
+    height: auto;
+}
+.titulo {
+    
+}
+
